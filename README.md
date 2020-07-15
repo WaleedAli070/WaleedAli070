@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there, I'm Waleed 👋
 
-<!--
-**WaleedAli070/WaleedAli070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer dedicated to build, scale and manage feature-rich applications (both web and desktop), mostly using JavaScript Frameworks. 
 
-Here are some ideas to get you started:
+### Currently Working 🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creating a replica of the world to assist autonomous automotive industry in simulating real world traffic scenarios... at Automotive Artificial Intelligence (AAI) as a Technical Lead, learning to lead and mentor the team by example. 
+
+Tech Stack: `#VueJS`, `#Electron`, `#NestJS`, `#ThreeJS`, `#Python`,
+
+Github: [@waleedali-aai](https://github.com/waleedali-aai)
+
+### Currently Learning 🌱
+
+- [ ] React
+- [ ] ThreeJS
+- [ ] GreenSock
+
+### Looking to Collaborate 👯
+
+In general, anything exciting and / or useful to people.. Particularly :point_down:
+
+- Remote (Vue, React, Node)
+- Open Source 
+
+### Wanna chat? :coffee: 
+
+- [LinkedIn](https://www.linkedin.com/in/syed-waleed-ali/) 
+- Email: waleedali070@gmail.com
